@@ -8,6 +8,7 @@ import Navbar from './Components/Navbar/Navbar';
 import About from './Pages/About/About';
 
 function App() {
+  
   return (
     <ResumeState>
       <div className="App">
